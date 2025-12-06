@@ -1,4 +1,6 @@
-# Projeto de capacitação
+# Projeto de capacitação: Resolução da Dupla Gerson e Gabriel
+
+O Gerson acabou ficando apenas com a entrega de eletrônica. Não consegui implementar nenhum nó de forma efetiva. O novo nó aqui apresentado (ball_to_black_board) foi programado pelo chat GPT disponível no VSCode. Estudei os fundamentos de ROS2 e da biblioteca BCPP, porém não tive êxito em implementar no código.
 
 ## Pré-requisitos(recomendado)
 
