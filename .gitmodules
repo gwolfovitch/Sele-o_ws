@@ -15,5 +15,5 @@
 	url = git@github.com:SSL-A-Team/ssl_ros_bridge.git
 [submodule "oxebots_strategy"]
 	path = src/oxebots_strategy
-	url = git@github.com:OxeBots/oxebots_strategy.git
-	branch = main
+	url = git@github.com:gwolfovitch/oxebots_strategy.git
+	branch = GersonGabriel
